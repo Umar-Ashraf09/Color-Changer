@@ -1,6 +1,6 @@
 # Color Changer
 
-[Color Changer]()
+[Color Changer](https://umar-ashraf09.github.io/Color-Changer/)
 
 Welcome to the Background Color Changer web application! This simple tool allows you to change the background color of the page by clicking a button.
 
@@ -19,7 +19,7 @@ Welcome to the Background Color Changer web application! This simple tool allows
 
 ## How to Use
 
-1. Open the [Color Changer]() web page.
+1. Open the [Color Changer](https://umar-ashraf09.github.io/Color-Changer/) web page.
 2. Click the "CLICK ME" button to change the background color randomly.
 3. The HEX code of the selected color will be displayed below the button.
 
